@@ -2,7 +2,7 @@
 
 Welcome to the official curriculum repository for **The Coding Clubhouse**.
 
-This is where all lesson content, exercises, and teaching materials are stored, maintained, and updated. Every change is tracked, every contributor is credited, and nothing is ever permanently lost.
+This is where all lesson content, exercises, and teaching materials are stored, maintained, and updated. Every change is tracked, every contributor is credited, and nothing is ever permanently lost..
 
 ---
 
